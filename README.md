@@ -1,6 +1,3 @@
-# Obbian-Assessment
-practical assessment
-
 # Obbian Assessment — Flutter
 
 A Flutter application developed as part of the Obbian technical assessment. The app provides a home screen where users can explore a Web View experience and a native Flutter App View.
